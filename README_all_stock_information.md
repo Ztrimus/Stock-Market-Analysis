@@ -1,4 +1,4 @@
-For module 2 onwards, we need to access the data of various other stocks, index, and commodities. All data are available at the `All Stock Data` Directory.
+For module 2 onwards, we need to access the data of various other stocks, index, and commodities. All data are available at the [`All Stock Data`](https://github.com/SBZed/Stock-Market-Analysis/tree/master/All%20Stock%20Data) Directory.
 
 # Stocks
 Each Cap has 25 stocks which available in [`All Stock Data Zipped`](https://github.com/SBZed/Stock-Market-Analysis/tree/master/All%20Stock%20Data%20Zipped) directory.
