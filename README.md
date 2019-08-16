@@ -31,6 +31,7 @@ If you are new to Python,[This YouTube series](https://www.youtube.com/playlist?
 #### 3. Jupyter Notebook:
 * Jupyter notebook is a very popular and flexible development environment which lets us write and execute python code, display the output and any kind of visualization or plot, etc. in the same document. however, it is always advisable to install Python with Anaconda environment on your system as well.
 * Link for Introduction to Jupyter notebook:
+    * [Quick Beginner Guide](https://github.com/SBZed/Stock-Market-Analysis/blob/master/Introduction%20to%20Jupyter%20Notebooks.ipynb)
     * [Introduction to Jupyter notebook](https://www.youtube.com/watch?v=HW29067qVWk)
     * [Jupyter Notebook Users Manual](https://jupyter.brynmawr.edu/services/public/dblank/Jupyter%20Notebook%20Users%20Manual.ipynb)
     * [Markdown for Jupyter notebooks cheatsheet](https://medium.com/ibm-data-science-experience/markdown-for-jupyter-notebooks-cheatsheet-386c05aeebed)
