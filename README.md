@@ -2,6 +2,14 @@ Stock Market Analysis
 =====================
 Project source can be downloaded from https://github.com/SBZed/Stock-Market-Analysis.git
 
+Author & Contributor List
+--------------------------
+**Saurabh Zinjad**
+
+All other known bugs and fixes can be sent to *"zinjadsaurabh1997@gmail.com"* with the subject *"stock market analysis Suggestion"*.
+Reported bugs/fixes will be submitted to correction.
+
+
 ## Introduction:
 **Investment Bankers, CA's, Hedge Fund / Portfolio Managers, Forex traders, Commodities Analysts.**<br>
 These have been historically considered to be among the most coveted professions of all time. Yet, if one fails to keep up with the demands of the day, one would find one's skills to be obsolete in this era of data analysis.
@@ -64,10 +72,3 @@ If you are new to Python,[This YouTube series](https://www.youtube.com/playlist?
     |   ├── images              # Images used in Jupyter notebook, Just for seek of representation
     │   └── Resource Matrial    # Different reference matrial(txt, doc, pdf)
     └── ...
-
-Author & Contributor List
---------------------------
-**Saurabh Zinjad**
-
-All other known bugs and fixes can be sent to *"zinjadsaurabh1997@gmail.com"* with the subject *"stock market analysis Suggestion"*.
-Reported bugs/fixes will be submitted to correction.
